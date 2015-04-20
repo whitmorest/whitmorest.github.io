@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Whitmore_St
 locale:           en_US
-url:              
+url:
 
 
 # Jekyll configuration
@@ -25,21 +25,21 @@ kramdown:
 
 
 # Site owner
-owner:
-  name: Your Name
+owner: Aden
+  name: Aden
   avatar: bio-photo.jpg
-  bio: "Describe your self."
-  email: 
-  disqus-shortname: 
+  bio: "Hey, I'm an artist by profession as well as a student, But this is just my personal blog to share my thoughts with the world"
+  email:
+  disqus-shortname:
   twitter: #username
   facebook: #username
   google:
     plus: #username
-    analytics: 
-    verify: 
-    ad-client: 
-    ad-slot: 
-  bing-verify: 
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
   github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
